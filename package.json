@@ -14,7 +14,6 @@
     "@slack/web-api": "^5.8.0",
     "@slack/webhook": "^5.0.3",
     "axios": "^0.19.2",
-    "cloudevents": "^3.2.0",
     "https": "^1.0.0",
     "https-proxy-agent": "^5.0.0",
     "jsonpath": "^1.1.1",
